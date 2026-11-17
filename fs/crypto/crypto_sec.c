@@ -23,6 +23,7 @@
 #include <uapi/linux/keyctl.h>
 #include <crypto/hash.h>
 #include <crypto/kbkdf.h>
+#include "fscrypt_private.h"
 #include "crypto_sec.h"
 
 /*
